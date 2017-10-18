@@ -13,6 +13,8 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-xml)：xml配置版本
 - [spring-boot-mybatis-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-mulidatasource)：springboot+mybatis多数据源最简解决方案
 - [spring-boot-mybatis-annotation-mulidatasource](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-annotation-mulidatasource)：springboot+mybatis（注解版）多数据源最简解决方案
+- [spring-boot-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-thymeleaf)：simple spring boot thymeleaf demo
+- [spring-boot-jpa-thymeleaf-curd](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa-thymeleaf-curd)：spring boot + jpa + thymeleaf 增删改查示例
 - [spring-boot-rabbitmq](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-rabbitmq)：spring boot和rabbitmq各种消息应用案例
 - [spring-boot-scheduler](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-scheduler)：spring boot和定时任务案例
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：web开发综合使用案例
@@ -21,7 +23,10 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-multi-mongodb](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-multi-mongodb)：spring boot和mongodb多数据源的使用
 - [spring-boot-package-war](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-package-war)：spring-boot打包成war包示例
 - [spring-boot-shiro](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-shiro)：springboot 整合shiro rbac示例
-- [Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源软件）
+- [spring-boot-file-upload](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-file-upload)：springboot 集成上传文件示例
+- [spring-boot-fastDFS](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-fastDFS)：springboot 集成FastDFS示例
+
+**[Favorites-web](https://github.com/cloudfavorites/favorites-web)：云收藏（springboot实战开源项目）**
 
 
 
@@ -39,9 +44,10 @@ Spring boot使用的各种示例，以最简单、最实用为标准
 - [springboot(十)：邮件服务](http://www.ityouknow.com/springboot/2017/05/06/springboot-mail.html)
 - [springboot(十一)：Spring boot中mongodb的使用](http://www.ityouknow.com/springboot/2017/05/08/springboot-mongodb.html)
 - [springboot(十二)：springboot如何测试打包部署](http://www.ityouknow.com/springboot/2017/05/09/springboot-deploy.html)
-- [springboot实战：我们的第一款开源软件](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)
 - [springboot(十三)：springboot小技巧](http://www.ityouknow.com/springboot/2017/06/22/springboot-tips.html)
 - [springboot(十四)：springboot整合shiro-登录认证和权限管理](http://www.ityouknow.com/springboot/2017/06/26/springboot-shiro.html)
+
+**[springboot实战：我们的第一款开源项目](http://www.ityouknow.com/springboot/2016/09/26/springboot%E5%AE%9E%E6%88%98-%E6%88%91%E4%BB%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6.html)**
 
 > 如果大家想了解关于springboot的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
 
